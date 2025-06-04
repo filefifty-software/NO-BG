@@ -1,4 +1,4 @@
-# NoBG.in - Free AI Background Remover
+# No BG - Free AI Background Remover
 
 [![Website](https://img.shields.io/badge/Visit-nobg.in-blue?style=for-the-badge&logo=google-chrome)](https://nobg.in)
 
